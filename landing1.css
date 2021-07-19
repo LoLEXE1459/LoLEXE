@@ -1,0 +1,165 @@
+.menu{
+text-align:center;
+}
+.menu a {
+text-decoration:none;
+color:black;
+padding:20px 30px;
+display:inline-block;
+width:100px;
+}
+.menu a:hover{
+background-color:#ccc;
+}
+.header{
+text-align:center;
+color: white;
+text-decoration:none;
+background-image:url(polygons.png);
+background-repeat:no-repeat;
+background-position:top center;
+padding:200px 0;
+}
+.header a{
+text-decoration:none;
+color:black;
+padding:8px 25px;
+background-color:white;
+border-radius:6px;
+cursor:pointer;
+}
+.header a:hover{
+background-color:#b1b1b2;
+}
+.Gaben img{
+width:400px;
+float:right;
+margin:0 30px 30px 30px;
+}
+.Gaben{
+max-width:1200px;
+margin: 0 auto;
+text-align:justify;
+}
+.You-fuckin-freak{
+border: 1px solid grey;
+width:20%;
+padding:20px;
+box-shadow:0 2px 5px grey;
+}
+.You-fuckin-freak img{
+width:100%;
+}
+.You-fuckin-freak .Freak{
+opacity:0.5;
+}.You-fuckin-freak a{
+text-decoration:none;
+color:white;
+display:inline-block;
+width:100%;
+padding:14px 0;
+background-color:#055b73;
+border-radius:6px;
+text-align:center;
+}
+.USTAL{
+background-color:#616161;
+text-align:center;
+mi
+}
+.USTAL h2, .USTAL p{
+color:#fff;
+}
+.USTAL ul{
+display:inline-block;
+width:30%;
+background-color:#fff;
+padding:0;
+min-width:150px;
+}
+.USTAL li{
+list-style-type:none;
+border-bottom:1px solid #dddddd;
+padding:15px 0;
+}
+.USTAL .aaa{
+color:#000;
+font-weight:bold;
+font-size:25px;
+}
+.USTAL .bbb{
+color:black;
+opacity:0.5;
+}
+.USTAL .sss{
+background-color:black;
+color:white;
+padding:30px;
+}
+span{
+font-weight:bold;
+}
+.USTAL .gg{
+background-color:#f1f1f1;
+padding:24px;
+}
+.gg a{
+background-color:black;
+color:#fff;
+padding:12px 24px;
+text-decoration:none;
+border-radius:5px;
+cursor:pointer;
+}
+.gg a:hover{
+color:#000;
+background-color:#fff;
+}
+.jj{
+background-image:url(address.png);
+background-repeat:no-repeat;
+background-position:left center;
+background-size:18px 18px; 
+}
+.ll{
+background-image:url(phone.png);
+background-repeat:no-repeat;
+background-position:left center;
+background-size:18px 18px;  
+}
+.mm{
+background-image:url(mail.png);
+background-repeat:no-repeat;
+background-position:left center;
+background-size:18px 18px;  
+}
+.ww{
+text-align:left;
+padding-left:30px;
+margin-left:5%;
+}
+.contacts{
+text-align:center;
+background-color:#f1f1f1;
+}
+.contacts input{
+width:90%;
+padding:8px;
+}
+h2{
+margin:0px;
+}
+body{
+margin:0px;
+}
+.contacts button{
+background-color:black;
+color:#fff;
+padding:12px 24px;
+border-radius:5px;
+cursor:pointer;
+}
+.contacts button:hover{
+color:#000;
+background-color:#fff;
+}
